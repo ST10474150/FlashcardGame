@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">History Flashcards</string>
+    <string name="welcome_message">Welcome to History Flashcards!</string>
+    <string name="description">Test your knowledge with five true/false history questions. Lets see how much you know!</string>
+    <string name="start_button">Start</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="score_label">Your Score:</string>
+    <string name="great_job">Great job!</string>
+    <string name="keep_practicing">Keep practising!</string>
+    <string name="review_button">Review</string>
+    <string name="exit_button">Exit</string>
+    <string name="review_title">Flashcard Review</string>
+    <string name="next">Next</string>
+
+</resources>
